@@ -1,1 +1,1 @@
-jquery auto upload shell & scanner
+jquery file upload auto upload shell & scanner
