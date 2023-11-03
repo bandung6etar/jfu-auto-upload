@@ -1,0 +1,7 @@
+/upload/server/php/
+/fileupload/server/php/
+/server/php/
+/jquery-file-upload/server/php/
+/assets/jquery-file-upload/server/php/
+/assets/plugins/jquery-file-upload/server/php/
+/assets/plugins/jQuery-File-Upload/server/php/
